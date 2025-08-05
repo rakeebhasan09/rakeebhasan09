@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Rakeeb Hasan. I'm a professional Front-End Web Developer 
+## 👋 Hi there, I'm Rakeeb Hasan. I'm a professional Front-End Web Developer.
 
 <!--
 **rakeebhasan09/rakeebhasan09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
