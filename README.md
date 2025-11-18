@@ -47,7 +47,7 @@ Hi, I’m Rakeeb Hasan, a passionate and dedicated MERN stack developer. I speci
 ### **Deployment**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=netlify,firebase" />
+  <img src="https://skillicons.dev/icons?i=netlify,firebase,vercel" />
 </p>
 
 ### **UI Design**
@@ -59,7 +59,7 @@ Hi, I’m Rakeeb Hasan, a passionate and dedicated MERN stack developer. I speci
 ### **Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=windows,sublime,vscode,postman,git,github" />
+  <img src="https://skillicons.dev/icons?i=windows,sublime,vite,vscode,postman,npm,regex,git,github" />
 </p>
 
 ---
@@ -67,9 +67,10 @@ Hi, I’m Rakeeb Hasan, a passionate and dedicated MERN stack developer. I speci
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/rakeebhasan09/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:mdrakeebhasan1@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://discord.com/users/1440264973048873084" target="_blank"><img src="https://skillicons.dev/icons?i=discord" /></a>
+  <a href="https://www.instagram.com/rakeebhasan09/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 ---
