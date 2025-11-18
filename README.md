@@ -1,4 +1,4 @@
-![I am Professional Front End Developer](/rakeebhasan-frontendwebdeveloper.jpg)
+![I am Professional Front End Developer](/my-banner.png)
 
 ### Hi there 👋, I'm MD Rakeeb Hasan
 
