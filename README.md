@@ -23,7 +23,13 @@ Hi, I’m Rakeeb Hasan, a passionate and dedicated MERN stack developer. I speci
 ### **Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### **Frontend Frameworks & Libraries:**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,jquery,react,nextjs" />
 </p>
 
 ### **Backend**
