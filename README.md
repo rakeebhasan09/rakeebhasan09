@@ -10,11 +10,11 @@ Hi, I’m Rakeeb Hasan, a passionate and dedicated MERN stack developer. I speci
 
 ## 🚀 Current Activities
 
--   🔭 I’m currently learning & exploring **MERN Stack Development**
--   🌱 Diving deep into **Next.js & Full-Stack Application Development**
--   💼 Working on **a modern courier website project**
--   ⚡ Practicing API development with **Node.js & Express**
--   📚 Exploring UI/UX improvement techniques
+- 🔭 I’m currently learning & exploring **MERN Stack Development**
+- 🌱 Diving deep into **Next.js & Full-Stack Application Development**
+- 💼 Working on **a modern courier website project**
+- ⚡ Practicing API development with **Node.js & Express**
+- 📚 Exploring UI/UX improvement techniques
 
 ---
 
@@ -83,13 +83,19 @@ Hi, I’m Rakeeb Hasan, a passionate and dedicated MERN stack developer. I speci
 
 ## 📊 GitHub Stats
 
-<p>
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=rakeebhasan09)
+
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rakeebhasan09)
+
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/streak/?username=rakeebhasan09)
+
+<!-- <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=rakeebhasan09&show_icons=true&theme=tokyonight" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeebhasan09&layout=compact&theme=tokyonight" />
 </p>
 
 <p>
   <img src="https://streak-stats.demolab.com?user=rakeebhasan09&theme=tokyonight" />
-</p>
+</p> -->
 
 ---
